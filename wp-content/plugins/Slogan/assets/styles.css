@@ -1,0 +1,14 @@
+.slogan-container {
+    border-radius: 10px;
+    text-align: center;
+    background-color: #4ADFCC;
+    font-size: 30px;
+    color: #fff;
+    width: 600px;
+    font-weight: 500;
+    box-shadow: 2px 2px 2px 2px #E0E0E0;
+}
+
+.slogan-title{font-size:50px;
+color: black
+}

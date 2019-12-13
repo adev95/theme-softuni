@@ -1,0 +1,149 @@
+body {
+  background-color:#eeefea !important;
+  font-size: 20px; 
+}
+
+body p {
+  font-size: 18px; 
+}
+
+.carousel-inner img {
+  width: 100%;
+  height: 100%;
+  }
+
+
+
+#mybuttons{background-color: aquamarine;
+  color: darkblue;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size:18px;
+  border:none;
+}
+
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url('https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_960_720.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color:White;
+}
+
+.font-weight-light{
+  font-size: 60px;
+}
+
+.container marketing{
+  align-content: center;
+}
+
+
+#circles {
+  align-content:center;
+}
+
+.photo_icons{
+  width: 140px; 
+  height: 140px;
+   border-radius: 50%;
+  background-color: blue;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.motocycles{
+  background: url('https://images.ctfassets.net/x7j9qwvpvr5s/6OIqQyxtEkkS6O0ycYokC6/e9fd8825897f65ddd433a98fac25dd53/monster-1200s_1100x100.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.cars{
+  background: url('https://cdn.motor1.com/images/mgl/E7313/s3/audi-rs4-avant-sonoma-green-in-austria.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.cars-color{
+  width:100%;
+  height:100%;
+  color:white;
+  background-color:rgba(0, 0, 0, 0.6)
+}
+
+.page-cars{
+  color:white;
+  background-color:rgba(0, 0, 0, 0.2)
+}
+
+
+
+.container-fluid{
+  color:white;
+  background-color:rgba(0, 0, 0, 0.2);
+  background-size: 200px 100px;
+  height:300px; 
+  text-align: center; 
+} 
+
+.gallery-text{
+  text-align: center;
+}
+
+.centered{
+  text-align:center;
+}
+
+
+
+#page-404{
+  background-color: silver;
+  align-content: center;
+  text-align:center;
+  color:red;
+  }
+
+  blockquote{
+    border-left:solid
+}
+
+.quote-badge{
+    background-color: rgba(0, 0, 0, 0.2);   
+}
+
+.quote-box{
+    
+    overflow: hidden;
+    margin-top: -50px;
+    padding-top: -100px;
+    border-radius: 17px;
+    background-color: #4ADFCC;
+    margin-top: 25px;
+    color:white;
+    width: 600px;
+    height:400px;
+    box-shadow: 2px 2px 2px 2px #E0E0E0;
+    
+}
+
+.quotation-mark{
+    
+    /* margin-top: -10px; */
+    font-weight: bold;
+    font-size:200px;
+    color:white;
+    font-family: "Times New Roman", Georgia, Serif;
+    
+}
+
+.quote-text{
+    
+    font-size: 50px;
+    margin-bottom: -65px;
+}
+
